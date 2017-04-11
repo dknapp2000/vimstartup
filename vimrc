@@ -4,7 +4,7 @@ set tabstop=4
 set expandtab
 set scrolloff=10
 
-colorscheme mac_classic
+colorscheme murphy
 
 set t_Co=256
 syntax on
